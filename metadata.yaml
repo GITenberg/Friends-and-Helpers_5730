@@ -1,5 +1,5 @@
 _repo: Friends-and-Helpers_5730
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   compiler:
     agent_name: Eddy, Sarah J. (Sarah Jane)
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'QL'
 - !lcsh 'Animals -- Fiction'
 - !lcsh 'Animal welfare'
+- GITenberg
 title: Friends and Helpers
 url: http://www.gutenberg.org/ebooks/5730
